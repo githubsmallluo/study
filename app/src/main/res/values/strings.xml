@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">schedule_demo</string>
+    <string name="buttom_study">学习</string>
+    <string name="buttom_scheduleCard">课程表</string>
+    <string name="buttom_chat">聊天</string>
+    <string name="buttom_personalCenter">个人中心</string>
+</resources>
